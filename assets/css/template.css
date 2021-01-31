@@ -4,7 +4,6 @@
 body{
   margin: 0;
   padding: 0;
-  padding-bottom: 300px;
 }
 header{
   display: flex;
@@ -189,7 +188,6 @@ article .news_resume{
   font-size: 14px; 
   margin-bottom: 30px;
 }
-/* Código acima funcional */
 footer{
   background-color: #1e1e1e;
   display: flex;
@@ -201,7 +199,6 @@ footer{
 .fm1, .fm2, .fm3{
   flex: 1;
   color: #FFF;
-  padding: 20px;
 }
 .fm1{
   background-color: #36a9e1;
@@ -214,6 +211,12 @@ footer{
 .fm3{
   background-color: #2b4c99;
 }
+.footer_menu a{
+  display: block;
+  text-decoration: none;
+  padding: 20px;
+  color: #FFF;
+}
 .footer_area{
   display: flex;
 
@@ -225,3 +228,15 @@ footer{
 .flexColumn{
   flex-direction: column;
 }
+footer .widget_title_text{
+  color: #FFF;
+}
+.footer_copy{
+  border-top: 1px solid #2c2c2c;
+  height: 40px;
+  line-height: 40px;
+  color: #5c5c5c;
+  font-size: 12px;
+  margin-top: 30px;
+}
+/* Código acima funcional */
