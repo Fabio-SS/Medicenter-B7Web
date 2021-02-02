@@ -188,6 +188,35 @@ article .news_resume{
   font-size: 14px; 
   margin-bottom: 30px;
 }
+/* TESTE DE DIV LATERAL DEPARTMENTS */
+aside .aside_news{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+aside .news{
+  width: 100px;
+  height: 100px;
+  background-color: #39aae1;
+  margin-bottom: 35px;
+  margin-right: 20px;
+  padding: 20px;
+}
+/* TESTE DE DIV MAKE AN APPOINTMENT - SEM FINALIZAÇÃO*/
+aside .make_info{
+  display: inline-block;
+  padding: 5px;
+  color: rgb(122, 120, 120);
+  font-size: 13px;
+  text-decoration: none;
+
+}
+aside .make_info pre{
+  padding-bottom: 10px;
+  border-bottom: 1px solid #727272;
+}
+/* TESTE DE DIV MAKE AN APPOINTMENT - SEM FINALIZAÇÃO*/
 footer{
   background-color: #1e1e1e;
   display: flex;
