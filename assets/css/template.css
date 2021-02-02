@@ -232,7 +232,20 @@ footer{
 .fm1{
   background-color: #36a9e1;
 }
-
+/*TESTE DE CONTEUDO EM HEALTH INSURANCE*/
+footer .fm1 p{
+  font-size: 13px;
+  margin-bottom:0px;
+}
+footer .fm2 p{
+  font-size: 13px;
+  margin-bottom:0px;
+}
+footer .fm3 p{
+  font-size: 13px;
+  margin-bottom:0px;
+}
+/* FIM DO TESTE */
 .fm2{
   background-color: #0079c0;
 }
