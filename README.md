@@ -1,2 +1,4 @@
-# Medicenter-B7Web
-Projeto de estudos do Curso B7Web.
+# Projeto Medicenter
+  # Curso B7Web
+
+Projeto com finalidade para estudos durante o curso.
